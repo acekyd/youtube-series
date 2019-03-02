@@ -1,0 +1,17 @@
+.mainTitle {
+    font-size: 10rem;
+    margin-bottom: 4rem;
+}
+
+.subtitle {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 4rem;
+}
+
+.lowtext {
+    font-size: 2rem;
+    font-weight: 100;
+    margin-bottom: 4rem;
+    font-style: italic;
+}
